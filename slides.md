@@ -106,7 +106,7 @@ transition: fade-out
 
 ### You won't be, but your work may
 
-![](images/2023-04-12-20-56-48.png)
+![](/images/2023-04-12-20-56-48.png)
 
 
 ---
@@ -117,7 +117,7 @@ transition: slide-up
 
 ### You won't be, but your work may
 
-![](images/2023-04-12-23-24-26.png)
+![](/images/2023-04-12-23-24-26.png)
 
 ---
 layout: image-right
@@ -140,14 +140,14 @@ image: https://source.unsplash.com/collection/94734566/1920x1080
 # Video Transcription
 Current workflows
 
-![](images/eng_transcribing.png)
+![](/images/eng_transcribing.png)
 
 ---
 
 # Video Transcription
 Current workflows
 
-![](images/ja_transcribing.png)
+![](/images/ja_transcribing.png)
 
 ---
 
@@ -161,14 +161,14 @@ streamlit_whisper
 # Video Transcription
 Transcribing with OpenAI
 
-![](images/openai_transcribing.png)
+![](/images/openai_transcribing.png)
 
 ---
 
 # Automate Content Drafting
 Generative Summary
 
-<video src="images/generative_summary.mp4" width="600" height="300" autoplay></video>
+<video src="/images/generative_summary.mp4" width="600" height="300" autoplay></video>
 
 ---
 
