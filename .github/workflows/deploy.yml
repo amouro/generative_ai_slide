@@ -15,8 +15,9 @@ jobs:
       - name: Build
         run: slidev build --base generative_ai_slide
       - name: Deploy pages
-        uses: crazy-max/ghaction-github-pages@v2
+        uses: crazy-max/ghaction-github-pages@v3
         with:
+          target_branch: gh-pages
           build_dir: dist
           fqdn: gen_ai.amou.ro
         env:
