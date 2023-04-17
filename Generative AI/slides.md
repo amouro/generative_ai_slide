@@ -146,6 +146,10 @@ transition: slide-up
   <img src="images/occupation_exposure2.png" class="" />
 </div>
 ---
+
+# Emergence ability
+
+---
 layout: image-right
 image: https://source.unsplash.com/collection/94734566/1920x1080
 ---
@@ -154,8 +158,8 @@ image: https://source.unsplash.com/collection/94734566/1920x1080
 
 1. Semantic Search
 1. Video Transcription
+1. Design with AI
 1. Automate Content Drafting
-1. Design an Application UI
 
 ---
 
@@ -206,6 +210,11 @@ Search in Natural Language
 ![](images/2023-04-17-21-03-39.png)
 </div>
 
+---
+
+# Search with AI Robot
+
+
 
 ---
 
@@ -244,6 +253,37 @@ Transcribing with OpenAI
 Transcribing with OpenAI
 
 ![](images/openai_transcribing.png)
+
+---
+
+# Design with AI
+MidJourney
+
+<div class="grid grid-cols-4 gap-8">
+
+  <div class="flex flex-col gap-2">
+    <h3>Generate</h3>
+    <img src="images/mj_step1.png" class="w-44" />
+    <img src="images/mj_step2.png" class="w-44" />
+  </div>
+  <div class="flex flex-col gap-2 items-center">
+    <h3>Mixing</h3>
+    <img src="images/jeff_photo.png" class="w-34" />
+    <img src="images/mj_step3_mixing.png" />
+
+  </div>
+  <div class="col-span-2">
+    <h3>Creating details</h3>
+    <img src="images/mj_step4_mixed.png" />
+  </div>
+</div>
+
+---
+
+# Design with AI
+Galileo AI | https://www.usegalileo.ai/
+
+<img src="images/GalileoAI.png" class="w-10/12 m-auto" />
 
 ---
 
@@ -322,38 +362,6 @@ Prompt
     <img src="images/generative_summary_settings.png" class="h-100" />
   </div>
 </div>
-
----
-
-# Design with AI
-MidJourney
-
-<div class="grid grid-cols-4 gap-8">
-
-  <div class="flex flex-col gap-2">
-    <h3>Generate</h3>
-    <img src="images/mj_step1.png" class="w-44" />
-    <img src="images/mj_step2.png" class="w-44" />
-  </div>
-  <div class="flex flex-col gap-2 items-center">
-    <h3>Mixing</h3>
-    <img src="images/jeff_photo.png" class="w-34" />
-    <img src="images/mj_step3_mixing.png" />
-
-  </div>
-  <div class="col-span-2">
-    <h3>Creating details</h3>
-    <img src="images/mj_step4_mixed.png" />
-  </div>
-</div>
-
----
-
-# Design with AI
-Galileo AI | https://www.usegalileo.ai/
-
-<img src="images/GalileoAI.png" class="w-10/12 m-auto" />
-
 ---
 transition: fade-out
 ---
