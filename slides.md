@@ -3,7 +3,7 @@
 theme: seriph
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
-background: https://source.unsplash.com/collection/94734566/1920x1080
+background: https://source.unsplash.com/collection/1309172/1920x1080
 # apply any windi css classes to the current slide
 class: 'text-center'
 # https://sli.dev/custom/highlighters.html
@@ -54,12 +54,13 @@ transition: fade-out
 layout: quote
 ---
 
-# What is your feeling about the AI?
+# What is your current feeling about the AI?
 
 <div class="flex flex-col gap-4">
   <div class="text-7xl">Anxious ⭐️⭐️⭐️⭐️⭐️</div>
   <div class="text-7xl">Excited ⭐️⭐️⭐️⭐️⭐️</div>
   <div class="text-7xl">No ideas ⭐️⭐️⭐️⭐️⭐️</div>
+  <div class="text-7xl text-yellow-400">What else?</div>
 </div>
 ---
 transition: fade-out
@@ -68,7 +69,7 @@ layout: two-cols
 ---
 
 # Generative AI
-Key Concepts and Applications
+Key Concepts and Applications #byAI
 
 -  **🤹 Artificial Intelligence**: 
   
@@ -123,17 +124,6 @@ Here is another comment.
 -->
 
 ---
-transition: fade-out
----
-
-# Would you be replaced by AI?
-
-### You won't be, but your work may
-
-![](/images/2023-04-12-20-56-48.png)
-
-
----
 transition: slide-up
 ---
 
@@ -145,6 +135,17 @@ transition: slide-up
   <img src="images/occupation_exposure1.png" class="" />
   <img src="images/occupation_exposure2.png" class="" />
 </div>
+
+---
+transition: fade-out
+---
+
+# Would you be replaced by AI?
+
+### AI <span class="text-lightblue-400 font-extrabold">augement</span> our abilities rather than replace us
+
+![](/images/2023-04-12-20-56-48.png)
+
 ---
 
 # Emergence ability
