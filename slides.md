@@ -148,7 +148,12 @@ transition: slide-up
 ---
 
 # Emergence ability
+Jason Wei | https://www.jasonwei.net/blog/emergence
 
+<div class="w-3/5 m-auto">
+
+![](images/emergence_ability.gif)
+</div>
 ---
 layout: image-right
 image: https://source.unsplash.com/collection/94734566/1920x1080
@@ -203,7 +208,7 @@ Search in Natural Language
 # Semantic Search
 Search in Natural Language
 
-<div class="grid grid-cols-2 gap-0 items-start">
+<div class="grid grid-cols-2 gap-4 items-start">
 
 ![](images/2023-04-17-21-02-34.png)
 
@@ -211,10 +216,50 @@ Search in Natural Language
 </div>
 
 ---
+layout: two-cols
+---
 
 # Search with AI Robot
+ChatGPT with own knowledge database
 
+## Question: 
+Show me the latest model name of the **foldable bike**. 
 
+Report in **bullet items** using **markdown** format, including 
+
+1. **Model name**; 
+2. **Size/dimention**; 
+3. **Description**.
+
+::right::
+
+![](images/ask_tern_bot.png)
+
+<style>
+  strong { 
+    @apply text-lightblue-500 text-xl;
+  }
+</style>
+
+---
+layout: two-cols
+---
+# Search similarity
+Semantic search using embeddings
+
+## Search phrase: 
+
+**Latest test ride events**
+
+::right::
+
+![](images/search_similarity.png)
+
+<style>
+  strong { 
+    @apply text-lightblue-500 text-xl;
+  }
+</style>
 
 ---
 
