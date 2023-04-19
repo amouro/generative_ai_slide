@@ -258,6 +258,10 @@ Semantic search using embeddings
 
 **Latest test ride events**
 
+```
+recommendation for commuter
+```
+
 ::right::
 
 ![](images/search_similarity.png)
