@@ -229,9 +229,15 @@ Show me the latest model name of the **foldable bike**.
 Report in **bullet items** using **markdown** format, including 
 
 1. **Model name**; 
-2. **Size/dimention**; 
+2. **Size/dimension**; 
 3. **Description**.
 
+
+```
+Show me the latest model name of the foldable bike. 
+Report in bullet items using markdown format, including:
+1. Model name; 2. Size/dimension; 3. Description.
+```
 ::right::
 
 ![](images/ask_tern_bot.png)
