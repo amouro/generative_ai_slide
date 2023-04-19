@@ -232,6 +232,7 @@ Report in **bullet items** using **markdown** format, including
 2. **Size/dimension**; 
 3. **Description**.
 
+<div class="mt-8 text-lg"> Try</div>
 
 ```
 Show me the latest model name of the foldable bike. 
@@ -257,6 +258,8 @@ Semantic search using embeddings
 ## Search phrase: 
 
 **Latest test ride events**
+
+<div class="mt-8 text-lg"> Try</div>
 
 ```
 recommendation for commuter
