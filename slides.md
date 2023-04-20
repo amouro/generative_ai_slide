@@ -132,8 +132,8 @@ transition: slide-up
 ### You won't be, but your work may
 
 <div class="grid grid-cols-2 gap-4 items-end">
-  <img src="images/occupation_exposure1.png" class="" />
-  <img src="images/occupation_exposure2.png" class="" />
+  <img src="/images/occupation_exposure1.png" class="" />
+  <img src="/images/occupation_exposure2.png" class="" />
 </div>
 
 ---
@@ -153,7 +153,7 @@ Jason Wei | https://www.jasonwei.net/blog/emergence
 
 <div class="w-3/5 m-auto">
 
-![](images/emergence_ability.gif)
+![](/images/emergence_ability.gif)
 </div>
 ---
 layout: image-right
@@ -200,7 +200,7 @@ strong {
 # Semantic Search
 Search in Natural Language
 
-![](images/semanticsearch.png)
+![](/images/semanticsearch.png)
 
 <small>https://unaice.com/semantic-search-engine/</small>
 
@@ -211,9 +211,9 @@ Search in Natural Language
 
 <div class="grid grid-cols-2 gap-4 items-start">
 
-![](images/2023-04-17-21-02-34.png)
+![](/images/2023-04-17-21-02-34.png)
 
-![](images/2023-04-17-21-03-39.png)
+![](/images/2023-04-17-21-03-39.png)
 </div>
 
 ---
@@ -241,7 +241,7 @@ Report in bullet items using markdown format, including:
 ```
 ::right::
 
-![](images/ask_tern_bot.png)
+![](/images/ask_tern_bot.png)
 
 <style>
   strong { 
@@ -267,7 +267,7 @@ recommendation for commuter
 
 ::right::
 
-![](images/search_similarity.png)
+![](/images/search_similarity.png)
 
 <style>
   strong { 
@@ -297,12 +297,12 @@ Transcribing with OpenAI
 <div class="grid grid-cols-7 gap-2 items-start">
   <div class="col-span-4">
     <h3>Transcribe</h3>
-    <video class="col-span-2" src="images/whisper_transcribe.mp4" width="600" height="300" controls></video>
+    <video class="col-span-2" src="/images/whisper_transcribe.mp4" width="600" height="300" controls></video>
   </div>
 
   <div class="col-span-3">
     <h3>Translate</h3>
-    <img src="images/whisper_translate.png" />
+    <img src="/images/whisper_translate.png" />
   </div>
 </div>
 
@@ -322,18 +322,18 @@ MidJourney
 
   <div class="flex flex-col gap-2">
     <h3>Generate</h3>
-    <img src="images/mj_step1.png" class="w-44" />
-    <img src="images/mj_step2.png" class="w-44" />
+    <img src="/images/mj_step1.png" class="w-44" />
+    <img src="/images/mj_step2.png" class="w-44" />
   </div>
   <div class="flex flex-col gap-2 items-center">
     <h3>Mixing</h3>
-    <img src="images/jeff_photo.png" class="w-34" />
-    <img src="images/mj_step3_mixing.png" />
+    <img src="/images/jeff_photo.png" class="w-34" />
+    <img src="/images/mj_step3_mixing.png" />
 
   </div>
   <div class="col-span-2">
     <h3>Creating details</h3>
-    <img src="images/mj_step4_mixed.png" />
+    <img src="/images/mj_step4_mixed.png" />
   </div>
 </div>
 
@@ -342,7 +342,7 @@ MidJourney
 # Design with AI
 Galileo AI | https://www.usegalileo.ai/
 
-<img src="images/GalileoAI.png" class="w-10/12 m-auto" />
+<img src="/images/GalileoAI.png" class="w-10/12 m-auto" />
 
 ---
 
@@ -363,7 +363,7 @@ Generative Summary with ChatGPT
   </div>
 
   <div class="col-span-3">
-    <video src="images/generative_summary.mp4" width="500" height="300" autoplay controls></video>
+    <video src="/images/generative_summary.mp4" width="500" height="300" autoplay controls></video>
   </div>
 </div>
 
@@ -392,7 +392,7 @@ Prompt
   </div>
 
   <div class="col-span-1">
-    <img src="images/failed_summary_prompt.png" />
+    <img src="/images/failed_summary_prompt.png" />
   </div>
 </div>
 
@@ -418,7 +418,7 @@ Prompt
   </div>
 
   <div class="col-span-1">
-    <img src="images/generative_summary_settings.png" class="h-100" />
+    <img src="/images/generative_summary_settings.png" class="h-100" />
   </div>
 </div>
 ---
@@ -439,7 +439,7 @@ What to do with ChatGPT
   </div>
 
   <div class="col-span-1">
-    <img src="images/GPT4_module_creation.png" />
+    <img src="/images/GPT4_module_creation.png" />
   </div>
 </div>
 
