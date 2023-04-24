@@ -48,7 +48,38 @@ How Generative AI could improve our workflow
 <!--
 The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
 -->
+---
 
+# Chris Wu
+
+<div class="grid grid-cols-3 grid-rows-2 gap-4 py-8">
+  <div class="image rounded-full content-center flex flex-col">
+    <img src="/images/chris_potrait.png" class="rounded-full overflow-hidden" />
+  </div>
+  <div class="intro flex flex-col items-start col-span-2">
+  <div class="flex flex-col">
+
+  <div><span class="text-3xl">🇹🇼 🇯🇵</span></div>
+  <div>Senior Web Developer, OIST </div>
+  <div><span class="text-sm text-gray-400">Okinawa Institute of Science and Technology</span></div>
+  <div><span class="text-sm text-gray-400">沖縄科学技術大学院大学</span></div>
+  </div>
+  <div class="mt-4 flex flex-col">
+
+  <div>Designer, Developer, former DUGTW leader</div>
+  <div>Keywords: <span class="text-3xl mt-4">☕️ 🇩🇪 🐈‍⬛</span></div>
+  <div><a href="https://twitter.com/amourow" target="_blank" alt="Twitter"
+      class="text-xl icon-btn mt-8 !border-none !hover:text-sky-400 text-sky-500">
+      <carbon-logo-twitter /> @amourow</a></div>
+  <div><a href="https://chris.contact" target="_blank" alt="GitHub"
+      class="text-xl icon-btn mt-8 !border-none !hover:text-blue-400 text-blue-500">
+      <mdi-web-box /> Keep contact</a></div>
+  </div>
+  </div>
+  <div class="pl-4">
+
+  </div>
+</div>
 ---
 transition: fade-out
 ---
