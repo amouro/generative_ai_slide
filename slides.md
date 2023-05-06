@@ -1,6 +1,8 @@
 ---
 # try also 'default' to start simple
 theme: seriph
+# disable presenter
+presenter: false
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
 background: https://source.unsplash.com/collection/1309172/1920x1080
@@ -23,6 +25,7 @@ drawings:
 transition: slide-left
 # use UnoCSS
 css: unocss
+
 ---
 
 # Destructive Innovation with Generative AI
@@ -430,6 +433,20 @@ Prompt
     <img src="/images/generative_summary_settings.png" class="h-100" />
   </div>
 </div>
+
+---
+
+# Code completion
+Draft code for your application.
+
+<div class="grid grid-cols-1 gap-2 items-start">
+  <div class="col-span-1">
+    <video class="col-span-2" src="/images/codeWhisperer.mp4" width="600" height="300" controls autoplay muted></video>
+  </div>
+
+
+</div>
+
 ---
 transition: fade-out
 ---
