@@ -136,6 +136,8 @@ transition: slide-up
   <img src="/images/occupation_exposure2.png" class="" />
 </div>
 
+<small>[source](https://doi.org/10.48550/arXiv.2303.10130)</small>
+
 ---
 transition: fade-out
 ---
@@ -144,7 +146,12 @@ transition: fade-out
 
 ### AI <span class="text-lightblue-400 font-extrabold">augement</span> our abilities rather than replace us
 
+<div class="grid grid-cols-1 w-10/12 m-auto">
+
 ![](/images/2023-04-12-20-56-48.png)
+</div>
+
+<small>[source](https://www.sequoiacap.com/article/generative-ai-a-creative-new-world/)</small>
 
 ---
 
@@ -202,7 +209,7 @@ Search in Natural Language
 
 ![](/images/semanticsearch.png)
 
-<small>https://unaice.com/semantic-search-engine/</small>
+<small>[source](https://unaice.com/semantic-search-engine/)</small>
 
 ---
 
@@ -215,6 +222,8 @@ Search in Natural Language
 
 ![](/images/2023-04-17-21-03-39.png)
 </div>
+
+<small>[source](https://txt.cohere.com/what-is-semantic-search/)</small>
 
 ---
 layout: two-cols
@@ -428,17 +437,30 @@ transition: fade-out
 # ChatGPT
 What to do with ChatGPT
 
-<div class="grid grid-cols-2 gap-2 items-start">
-  <div class="col-span-1">
-
-1. <span class="text-red-600">Do not</span> use it as Search engine <br /><span class="text-green-600">Do</span> ask it to summarize from a provision content
-2. <span class="text-red-600">Do not</span> try to jailbrake it <br /><span class="text-green-600">Do</span> instruct it to talk in a template
-3. <span class="text-red-600">Do not</span> ask it to calculate <br /> Use <span class="text-green-600">calculator</span>
-4. <span class="text-red-600">Do not</span> use vague instruction <br /><span class="text-green-600">Do</span> step by step instruction and start from simple task
+<div class="grid grid-cols-5 gap-4 items-start">
+  <div class="col-span-3 grid grid-cols-2 gap-y-8">
+    <div>
+      <span class="text-red-600">Do not</span>
+    </div>
+    <div>
+      <span class="text-green-600">Do</span>
+    </div>
+    <div>
+      use it as <span class="text-lightblue-400 font-extrabold">Search engine</span>
+    </div>
+    <div>
+      ask it to <span class="text-lightblue-400 font-extrabold">summarize</span> from a provision content
+    </div>
+    <div>try to <span class="text-lightblue-400 font-extrabold">jailbrake</span> it</div>
+    <div><span class="text-lightblue-400 font-extrabold">instruct it</span> to talk in a template</div>
+    <div>ask it to <span class="text-lightblue-400 font-extrabold">calculate</span></div>
+    <div>use <span class="text-lightblue-400 font-extrabold">calculator</span></div>
+    <div>use <span class="text-lightblue-400 font-extrabold">vague</span> instruction</div>
+    <div>use <span class="text-lightblue-400 font-extrabold">step by step instruction</span> and start from simple task</div>
   
   </div>
 
-  <div class="col-span-1">
+  <div class="col-span-2">
     <img src="/images/GPT4_module_creation.png" />
   </div>
 </div>
@@ -448,7 +470,7 @@ What to do with ChatGPT
 class: px-20
 ---
 
-# Challenge in OIST
+# Challenge
 
 1. Need python developer and good data scientist 
 2. Cost could be high for semantic search
@@ -458,7 +480,7 @@ class: px-20
 
 ---
 
-# Opportunity in OIST
+# Opportunity
 
 - Government is actively want to leverage the ChatGPT in work. 
 - Universities are trying to make policy of using the ChatGPT.
@@ -468,8 +490,8 @@ class: px-20
 
 # What we should do
 
-- Start trying to use AI to improve your work, find how to emplify your efforts
-- Think how AI could be part of your work in two years.
+- <span class="text-lightblue-400 font-extrabold">Start trying</span> to use AI to improve your work, find how to emplify your efforts
+- Think how AI could be part of your work in <span class="text-lightblue-400 font-extrabold">two</span> years.
 
 ---
 transition: fade-out
